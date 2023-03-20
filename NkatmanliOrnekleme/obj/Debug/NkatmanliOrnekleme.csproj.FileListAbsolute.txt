@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\NkatmanliOrnekleme\NkatmanliOrnekleme\bin\Debug\NkatmanliOrnekleme.exe.config
+C:\Users\Furkan\source\repos\NkatmanliOrnekleme\NkatmanliOrnekleme\bin\Debug\NkatmanliOrnekleme.exe
+C:\Users\Furkan\source\repos\NkatmanliOrnekleme\NkatmanliOrnekleme\bin\Debug\NkatmanliOrnekleme.pdb
+C:\Users\Furkan\source\repos\NkatmanliOrnekleme\NkatmanliOrnekleme\obj\Debug\NkatmanliOrnekleme.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NkatmanliOrnekleme\NkatmanliOrnekleme\obj\Debug\NkatmanliOrnekleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\NkatmanliOrnekleme\NkatmanliOrnekleme\obj\Debug\NkatmanliOrnekleme.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NkatmanliOrnekleme\NkatmanliOrnekleme\obj\Debug\NkatmanliOrnekleme.exe
+C:\Users\Furkan\source\repos\NkatmanliOrnekleme\NkatmanliOrnekleme\obj\Debug\NkatmanliOrnekleme.pdb
