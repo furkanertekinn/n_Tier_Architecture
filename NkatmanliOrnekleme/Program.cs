@@ -20,7 +20,7 @@ namespace NkatmanliOrnekleme
             int ID = Convert.ToInt32(Console.ReadLine());
 
             BusinessLogicLayer BLL = new BusinessLogicLayer();
-            int EKS = BLL.VeriKaydet(1, "Furkan", "Ertekin");
+            int EKS = BLL.VeriKaydet(ID, isim, soyisim);
 
             if (EKS > 0)
             {
